@@ -1,1 +1,0 @@
-body{font-family:Arial;background:#ffd6e8;display:flex;justify-content:center;align-items:center;height:100vh;margin:0}.container{background:#fff;padding:20px;border-radius:20px;text-align:center}.page{display:none}.active{display:block}.heart{position:fixed;bottom:-20px;animation:f 5s linear}@keyframes f{to{transform:translateY(-110vh)}}
